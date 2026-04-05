@@ -1,3 +1,15 @@
+---
+name: auto-model-router
+description: Auto Model Router - Automatically select the best model based on task complexity for OpenClaw agents
+version: 1.0.0
+metadata:
+  openclaw:
+    requires:
+      env: []
+      config: []
+    homepage: https://github.com/HMCHENGGH/auto-model-router
+---
+
 # Auto Model Router Skill
 
 > 智能模型路由：根據工作類型自動選擇最適合的模型
